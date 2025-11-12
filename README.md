@@ -1,3 +1,3 @@
 안녕하세요!!
-![seochan's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![seochan's GitHub stats](https://github-readme-stats.vercel.app/api?username=seochan&show_icons=true&theme=radical)
 
